@@ -91,3 +91,6 @@
 .copyright {
   text-align: center;
 }
+.copyright p:first-child {
+  margin-bottom: 27px;
+}
