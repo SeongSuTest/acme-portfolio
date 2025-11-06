@@ -94,3 +94,6 @@
 .copyright p:first-child {
   margin-bottom: 27px;
 }
+.copyright p span {
+  color: var(--primary);
+}
